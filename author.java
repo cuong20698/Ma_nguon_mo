@@ -4,4 +4,5 @@ class AuThor{
 	private int namSX;
 	private String quyen;
 	private String cc;
+	private String cuongml;
 }
